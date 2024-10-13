@@ -4,7 +4,7 @@ NIM: 2309116027\
 Tema: Sistem Manajemen Armada Pesawat
 
 # Deskripsi
-Program ini adalah sebuah program CRUD dengan tema sistem manajemen armada pesawat. Di program ini user dapat membuat data pesawat seperti ID, nama, tipe, dan kecepatan pesawat. Program ini juga dapat membaca apa saja data pesawat yang ada. Selain itu program ini dapat mengedit data pesawat yang telah dibuat sebelumnya. Terakhir program ini dapat menghapus data pesawat.
+Program ini adalah sebuah program CRUD dengan tema Sistem Manajemen Armada Pesawat. Di program ini user dapat membuat data pesawat yang berisi ID, nama, kecepatan, dan tipe pesawat. Jika tipe pesawat kargo maka akan ada data tambahan yaitu kapasitas kargo, sedangkan jika tipe pesawat tempur maka akan ada data tambahan yaitu jumlah peluru dan jumlah rudal. Program ini juga dapat membaca data pesawat yang telah ditambahkan sebelumnya. Selain itu program ini juga dapat mengedit data pesawat yang telah ditambahkan sebelumnya. Terakhir program ini dapat menghapus data pesawat yang sebelumnya telah ditambahkan.
 
 # Struktur Package
 ![{CFC734B6-3B69-42F4-B490-C358146B8060}](https://github.com/user-attachments/assets/7494055e-321e-4a2a-9c40-c0f73cfbbc4d)
@@ -425,9 +425,9 @@ Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan
 Jika ID pesawat tidak ada, maka akan muncul pesan pesawat tidak ditemukan.
 
 ### Menu Delete
-![{51A84AF9-5414-40C3-84FD-6B1ADCE6949C}](https://github.com/user-attachments/assets/9bdf60c3-e9c3-4868-ac8c-ab331698eb5e)
+![{4B188BC0-327B-445B-A69F-AB93AB957891}](https://github.com/user-attachments/assets/93ea93ea-11e7-4458-b531-b41f36e023e1)
 
-![{C58300FB-EE3B-4D0D-B8BE-9F194775D710}](https://github.com/user-attachments/assets/75e41e34-e77d-4cf5-ad11-07feab1f02bd)
+![{012DC3F5-11A3-4B04-A5DE-8002CBF85637}](https://github.com/user-attachments/assets/5878ce6d-1b27-408d-8a01-3ca4161f3acd)
 
 Ketika memasukkan angka 4 di menu utama maka akan muncul daftar pesawat dan menu untuk memasukkan ID pesawat yang ingin dihapus. Jika berhasil dihapus maka akan muncul pesan data pesawat berhasil dihapus.
 
