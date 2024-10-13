@@ -4,7 +4,7 @@ NIM: 2309116027\
 Tema: Sistem Manajemen Armada Pesawat
 
 # Deskripsi
-Program ini adalah sebuah program CRUD dengan tema Sistem Manajemen Armada Pesawat. Di program ini user dapat membuat data pesawat yang berisi ID, nama, kecepatan, dan tipe pesawat. Jika tipe pesawat kargo maka akan ada data tambahan yaitu kapasitas kargo, sedangkan jika tipe pesawat tempur maka akan ada data tambahan yaitu jumlah peluru dan jumlah rudal. Program ini juga dapat membaca data pesawat yang telah ditambahkan sebelumnya. Selain itu program ini juga dapat mengedit data pesawat yang telah ditambahkan sebelumnya. Terakhir program ini dapat menghapus data pesawat yang sebelumnya telah ditambahkan.
+<p align = "justify"> Program ini adalah sebuah program CRUD dengan tema Sistem Manajemen Armada Pesawat. Di program ini user dapat membuat data pesawat yang berisi ID, nama, kecepatan, dan tipe pesawat. Jika tipe pesawat kargo maka akan ada data tambahan yaitu kapasitas kargo, sedangkan jika tipe pesawat tempur maka akan ada data tambahan yaitu jumlah peluru dan jumlah rudal. Program ini juga dapat membaca data pesawat yang telah ditambahkan sebelumnya. Selain itu program ini juga dapat mengedit data pesawat yang telah ditambahkan sebelumnya. Terakhir program ini dapat menghapus data pesawat yang sebelumnya telah ditambahkan. </p>
 
 # Struktur Package
 ![{CFC734B6-3B69-42F4-B490-C358146B8060}](https://github.com/user-attachments/assets/7494055e-321e-4a2a-9c40-c0f73cfbbc4d)
@@ -397,7 +397,7 @@ Ketika pertama kali menjalankan kode maka akan muncul menu utama yang berisi Cre
 #### Pesawat Kargo
 ![{64C2508A-8A07-482C-A49E-20D378825E14}](https://github.com/user-attachments/assets/8ec69011-ad28-4685-b668-81abc42e3904)
 
-Ketika memasukkan angka 1 di menu utama akan muncul menu membuat data pesawat. Disini user diminta untuk memasukkan ID pesawat. Jika ID pesawat tidak ada di Arraylist maka akan muncul pesan untuk memasukkan nama pesawat dan kecepatan pesawat. Setelah memasukkan kecepatan pesawat akan muncul pilihan untuk memilih tipe pesawat. Jika tipe pesawat yang dipilih adalah kargo maka akan muncul pesan untuk memasukkan kapasitas kargo.
+<p align = "justify">Ketika memasukkan angka 1 di menu utama akan muncul menu membuat data pesawat. Disini user diminta untuk memasukkan ID pesawat. Jika ID pesawat tidak ada di Arraylist maka akan muncul pesan untuk memasukkan nama pesawat dan kecepatan pesawat. Setelah memasukkan kecepatan pesawat akan muncul pilihan untuk memilih tipe pesawat. Jika tipe pesawat yang dipilih adalah kargo maka akan muncul pesan untuk memasukkan kapasitas kargo.</p>
 
 #### Pesawat Tempur
 ![{D3441CD2-58C6-44FF-BBB2-B74162C74D26}](https://github.com/user-attachments/assets/8b1f1516-9a19-453e-a925-e617c1f249a7)
@@ -418,7 +418,7 @@ Ketika memasukkan angka 2 di menu utama maka akan muncul daftar data pesawat.
 
 ![{AEF66D90-6198-4479-86C2-406195F11607}](https://github.com/user-attachments/assets/8cae56f2-c361-4185-9045-c2c380ce8e96)
 
-Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan menu untuk memasukkan ID pesawat yang ingin diubah. Setelah itu user akan memasukkan nama dan kecepatan baru. Jika pesawat bertipe kargo maka akan muncul menu untuk memasukkan kapasitas kargo, sedangkan jika bertipe pesawat tempur maka akan muncul menu untuk memasukkan jumlah peluru dan rudal. Jika berhasil diubah maka akan muncul pesan data pesawat berhasil diubah.
+<p align = "justify"> Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan menu untuk memasukkan ID pesawat yang ingin diubah. Setelah itu user akan memasukkan nama dan kecepatan baru. Jika pesawat bertipe kargo maka akan muncul menu untuk memasukkan kapasitas kargo, sedangkan jika bertipe pesawat tempur maka akan muncul menu untuk memasukkan jumlah peluru dan rudal. Jika berhasil diubah maka akan muncul pesan data pesawat berhasil diubah. </p>
 
 ![{68C17899-49A3-4703-BFD6-2C65807263E7}](https://github.com/user-attachments/assets/566dffa9-cea5-412b-b104-57a5c0417cf6)
 
