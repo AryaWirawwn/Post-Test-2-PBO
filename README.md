@@ -394,9 +394,15 @@ final public class PesawatTempur extends Pesawat{
 Ketika pertama kali menjalankan kode maka akan muncul menu utama yang berisi Create, Read, Update, Delete, dan Exit.
 
 ### Menu Create
-![{CFA24213-8D1B-4A8E-BF8E-9A94ACA55298}](https://github.com/user-attachments/assets/8a3783b6-5846-4255-93a4-6ce1595cfffa)
+#### Pesawat Kargo
+![{64C2508A-8A07-482C-A49E-20D378825E14}](https://github.com/user-attachments/assets/8ec69011-ad28-4685-b668-81abc42e3904)
 
-Ketika memasukkan angka 1 di menu utama akan muncul menu membuat data pesawat. Jika ID pesawat tidak ada di ArrayList maka akan muncul pesan untuk memasukkan nama pesawat dan kecepatan pesawat.
+Ketika memasukkan angka 1 di menu utama akan muncul menu membuat data pesawat. Disini user diminta untuk memasukkan ID pesawat. Jika ID pesawat tidak ada di Arraylist maka akan muncul pesan untuk memasukkan nama pesawat dan kecepatan pesawat. Setelah memasukkan kecepatan pesawat akan muncul pilihan untuk memilih tipe pesawat. Jika tipe pesawat yang dipilih adalah kargo maka akan muncul pesan untuk memasukkan kapasitas kargo.
+
+#### Pesawat Tempur
+![{D3441CD2-58C6-44FF-BBB2-B74162C74D26}](https://github.com/user-attachments/assets/8b1f1516-9a19-453e-a925-e617c1f249a7)
+
+Jika tipe pesawat yang dipilih adalah tempur maka akan muncul pesan untuk memasukkan jumlah peluru dan rudal.
 
 ![{DAA7C803-2922-45DF-A7A6-FD7FB585FA8A}](https://github.com/user-attachments/assets/780d2d6b-4167-4109-a802-66441e3308bc)
 
