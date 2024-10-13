@@ -409,16 +409,16 @@ Jika tipe pesawat yang dipilih adalah tempur maka akan muncul pesan untuk memasu
 Jika ID pesawat sudah di data sebelumnya maka akan muncul pesan ID tersebut sudah ada. User harus memasukkan ID yang tidak ada di data.
 
 ### Menu Read
-![{AE0E7512-DC97-45D1-918D-E1198DEC417E}](https://github.com/user-attachments/assets/4ac589d1-e38e-4e33-b2e5-56d9e8111731)
+![{B4742411-5969-4B3A-A1D4-D2D34C2D3A4C}](https://github.com/user-attachments/assets/c255c78b-4724-4019-a706-6efc4c6eb0f0)
 
 Ketika memasukkan angka 2 di menu utama maka akan muncul daftar data pesawat.
 
 ### Menu Update
-![{3AA6B3B8-B8CC-4FBC-B30D-FFA62FD3CAD0}](https://github.com/user-attachments/assets/f1571082-aaec-4a00-91f8-eca27734c83d)
+![{143B61DC-930A-4D46-ABD7-584E07E16E82}](https://github.com/user-attachments/assets/a8e29c62-33ba-4111-9f40-7db52b7f593e)
 
-![{824CC740-B6D6-4168-909A-6C68F254A5BC}](https://github.com/user-attachments/assets/151eaf8f-e1de-4f20-b999-393b5859cc52)
+![{AEF66D90-6198-4479-86C2-406195F11607}](https://github.com/user-attachments/assets/8cae56f2-c361-4185-9045-c2c380ce8e96)
 
-Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan menu untuk memasukkan ID pesawat yang ingin diubah. Jika berhasil diubah maka akan muncul pesan data pesawat berhasil diubah.
+Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan menu untuk memasukkan ID pesawat yang ingin diubah. Setelah itu user akan memasukkan nama dan kecepatan baru. Jika pesawat bertipe kargo maka akan muncul menu untuk memasukkan kapasitas kargo, sedangkan jika bertipe pesawat tempur maka akan muncul menu untuk memasukkan jumlah peluru dan rudal. Jika berhasil diubah maka akan muncul pesan data pesawat berhasil diubah.
 
 ![{68C17899-49A3-4703-BFD6-2C65807263E7}](https://github.com/user-attachments/assets/566dffa9-cea5-412b-b104-57a5c0417cf6)
 
